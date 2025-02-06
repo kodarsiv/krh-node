@@ -19,11 +19,6 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/krh-node.git
 cd krh-node
 ```
 
-### **2️⃣ Run the Setup Script**
-```bash
-bash setup_package.sh
-bash setup_storage.sh
-```
 This **automatically creates the project structure, installs dependencies, and initializes databases**.
 
 ### **3️⃣ Start the Server**
