@@ -21,7 +21,7 @@ cd krh-node
 
 This **automatically creates the project structure, installs dependencies, and initializes databases**.
 
-### **3️⃣ Start the Server**
+### **2️⃣ Start the Server**
 ```bash
 npm run dev
 ```
