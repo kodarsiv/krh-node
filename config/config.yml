@@ -1,0 +1,11 @@
+supportedLanguages: ['en', 'fr']
+codeCategories:
+  auth: 200100
+  payment: 200200
+  validation: 400100
+storage:
+  sqlite:
+    path: './storage-data/messages.db'
+  redis:
+    host: 'localhost'
+    port: 6379

@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+dist/
+storage-data/messages.db
+.env
+./.idea
+.idea
